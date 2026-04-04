@@ -5,6 +5,7 @@ Selected for poster presentation at International Biotechnology Conference 2025 
 
 ## 📄 Abstract
 This project presents a wearable IoT-based system for real-time health monitoring using Arduino, ESP32, and sensors. Health data is transmitted to a Firebase cloud database and analyzed using AI to provide real-time insights, emergency alerts, and personalized recommendations.
+![Abstract](Abstract.jpeg)
 ## 🖼️ Poster## 🖼️ Poster
 ![Poster](Poster.jpeg)
 
