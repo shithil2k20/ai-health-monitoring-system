@@ -11,4 +11,5 @@ Methodology: This study presents a hospital-integrated wearable health monitorin
 Results: The system demonstrated reliable and efficient performance. It ensured accurate data collection, smooth data transmission, and easy accessibility for patients, physicians, and caregivers. The integrated AI assistant provided continuous support by offering health guidance and generating alerts in emergency situations. Users were also able to record daily health data, enabling personalized monitoring and long-term health tracking.
 
 Conclusion: The proposed system is a user-friendly and cost-effective solution for real-time health monitoring. It has strong potential to enhance remote healthcare services, improve patient–doctor communication, and bridge the gap between healthcare providers and patients, particularly in resource-limited settings.
+
 Keywords: IoT, Wearable Device, Artificial Intelligence, Real-Time Monitoring, Microcontroller
